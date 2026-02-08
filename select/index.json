@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "My Hair is Bad - 悪い癖(ファンタスティックホームランツアー 2019.4.17  横浜アリーナ)",
+  "base_artist": "My Hair is Bad",
+  "createdAt": "2026-02-08T21:55:41.156647Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪い癖",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_悪い癖_My_Hair_is_Bad.txt"
+    }
+  ]
+}
